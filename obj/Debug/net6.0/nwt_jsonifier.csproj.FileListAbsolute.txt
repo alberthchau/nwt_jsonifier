@@ -1,0 +1,17 @@
+C:\Projects\nwt_jsonifier\bin\Debug\net6.0\nwt_jsonifier.exe
+C:\Projects\nwt_jsonifier\bin\Debug\net6.0\nwt_jsonifier.deps.json
+C:\Projects\nwt_jsonifier\bin\Debug\net6.0\nwt_jsonifier.runtimeconfig.json
+C:\Projects\nwt_jsonifier\bin\Debug\net6.0\nwt_jsonifier.dll
+C:\Projects\nwt_jsonifier\bin\Debug\net6.0\nwt_jsonifier.pdb
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.csproj.AssemblyReference.cache
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.AssemblyInfoInputs.cache
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.AssemblyInfo.cs
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.csproj.CoreCompileInputs.cache
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.dll
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\refint\nwt_jsonifier.dll
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.pdb
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.genruntimeconfig.cache
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\ref\nwt_jsonifier.dll
+C:\Projects\nwt_jsonifier\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\nwt_jsonifier\obj\Debug\net6.0\nwt_jsonifier.csproj.CopyComplete
